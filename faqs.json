@@ -1,0 +1,258 @@
+[
+  {
+    "question": "what is artificial intelligence",
+    "answer": "Artificial Intelligence (AI) is the simulation of human intelligence in machines that are programmed to think, learn, and make decisions."
+  },
+  {
+    "question": "who is the father of artificial intelligence",
+    "answer": "John McCarthy, who coined the term 'Artificial Intelligence' in 1956, is considered the father of AI."
+  },
+  {
+    "question": "what are the types of artificial intelligence",
+    "answer": "AI is categorized as Narrow AI (task-specific), General AI (human-level intelligence), and Super AI (beyond human intelligence)."
+  },
+  {
+    "question": "what is machine learning",
+    "answer": "Machine learning is a subset of AI that enables computers to learn from data and improve performance without explicit programming."
+  },
+  {
+    "question": "what is deep learning",
+    "answer": "Deep learning is a machine learning technique that uses multi-layered neural networks to automatically learn patterns from large datasets."
+  },
+  {
+    "question": "what is natural language processing",
+    "answer": "Natural Language Processing (NLP) is a field of AI that enables machines to understand and interact with human language."
+  },
+  {
+    "question": "what is computer vision",
+    "answer": "Computer vision is the ability of machines to interpret and analyze visual data from the world such as images and videos."
+  },
+  {
+    "question": "what is reinforcement learning",
+    "answer": "Reinforcement learning is a type of machine learning where an agent learns by interacting with an environment and receiving rewards or penalties."
+  },
+  {
+    "question": "what is supervised learning",
+    "answer": "Supervised learning uses labeled datasets to train models that can predict outcomes on new data."
+  },
+  {
+    "question": "what is unsupervised learning",
+    "answer": "Unsupervised learning finds hidden patterns in unlabeled data without predefined outcomes."
+  },
+  {
+    "question": "what is semi supervised learning",
+    "answer": "Semi-supervised learning combines a small amount of labeled data with a large amount of unlabeled data to improve learning accuracy."
+  },
+  {
+    "question": "what is generative ai",
+    "answer": "Generative AI refers to AI systems that can create new content such as text, images, code, or music. Examples include GPT, DALL-E, and Stable Diffusion."
+  },
+  {
+    "question": "what is chatgpt",
+    "answer": "ChatGPT is a large language model developed by OpenAI that generates human-like responses in conversations."
+  },
+  {
+    "question": "what is gpt",
+    "answer": "GPT (Generative Pretrained Transformer) is a type of AI language model that generates text based on context and input prompts."
+  },
+  {
+    "question": "what are neural networks",
+    "answer": "Neural networks are AI systems inspired by the human brain, consisting of layers of interconnected nodes called neurons."
+  },
+  {
+    "question": "what is a convolutional neural network",
+    "answer": "A Convolutional Neural Network (CNN) is a deep learning model commonly used for image and video recognition."
+  },
+  {
+    "question": "what is a recurrent neural network",
+    "answer": "A Recurrent Neural Network (RNN) is designed for sequential data such as text, time series, or speech recognition."
+  },
+  {
+    "question": "what is the turing test",
+    "answer": "The Turing Test evaluates a machine's ability to exhibit behavior indistinguishable from a human."
+  },
+  {
+    "question": "what are examples of ai in daily life",
+    "answer": "Examples include voice assistants like Siri and Alexa, recommendation systems on Netflix and YouTube, chatbots, and self-driving cars."
+  },
+  {
+    "question": "what programming languages are used in ai",
+    "answer": "Python, R, Java, Julia, and C++ are widely used for AI development. Python is the most popular due to its rich ecosystem."
+  },
+  {
+    "question": "what are popular ai frameworks",
+    "answer": "Popular AI frameworks include TensorFlow, PyTorch, Scikit-learn, and Keras."
+  },
+  {
+    "question": "what is computer vision used for",
+    "answer": "Computer vision is used in facial recognition, medical imaging, self-driving cars, and surveillance systems."
+  },
+  {
+    "question": "where is ai used in healthcare",
+    "answer": "AI in healthcare is used for medical imaging, disease diagnosis, drug discovery, and personalized treatment."
+  },
+  {
+    "question": "where is ai used in finance",
+    "answer": "AI is used in finance for fraud detection, risk management, algorithmic trading, and customer support chatbots."
+  },
+  {
+    "question": "where is ai used in education",
+    "answer": "AI in education includes personalized learning systems, automated grading, and intelligent tutoring platforms."
+  },
+  {
+    "question": "where is ai used in business",
+    "answer": "AI in business is used for customer service, data analytics, automation, demand forecasting, and decision-making support."
+  },
+  {
+    "question": "what is ai in robotics",
+    "answer": "AI in robotics enables robots to perceive environments, make decisions, and perform complex tasks autonomously."
+  },
+  {
+    "question": "what are autonomous vehicles",
+    "answer": "Autonomous vehicles, or self-driving cars, use AI to perceive the environment, make driving decisions, and navigate safely."
+  },
+  {
+    "question": "what is explainable ai",
+    "answer": "Explainable AI provides transparency in AI decision-making by allowing humans to understand how models generate outputs."
+  },
+  {
+    "question": "what is ai bias",
+    "answer": "AI bias occurs when AI systems produce unfair results due to biased training data or flawed algorithms."
+  },
+  {
+    "question": "what are ethical concerns in ai",
+    "answer": "Ethical concerns include data privacy, job displacement, accountability, bias, and the use of AI in weapons."
+  },
+  {
+    "question": "what are advantages of ai",
+    "answer": "AI increases efficiency, reduces human error, automates repetitive work, and powers innovation."
+  },
+  {
+    "question": "what are disadvantages of ai",
+    "answer": "AI can be expensive, cause job loss, lack transparency, and sometimes amplify biases present in data."
+  },
+  {
+    "question": "what is the future of ai",
+    "answer": "The future of AI includes improved general intelligence, ethical governance, integration in every industry, and human-AI collaboration."
+  },
+  {
+    "question": "what companies are leading in ai",
+    "answer": "Companies like Google, OpenAI, Microsoft, IBM, and NVIDIA are leading in AI research and development."
+  },
+  {
+    "question": "what is edge ai",
+    "answer": "Edge AI refers to running AI models on local devices such as smartphones or IoT devices instead of relying on cloud servers."
+  },
+  {
+    "question": "what is ai in agriculture",
+    "answer": "AI in agriculture is used for crop monitoring, yield prediction, pest detection, and precision farming."
+  },
+  {
+    "question": "what is ai in cybersecurity",
+    "answer": "AI in cybersecurity is used for threat detection, malware analysis, anomaly detection, and fraud prevention."
+  },
+  {
+    "question": "what is ai in entertainment",
+    "answer": "AI in entertainment powers personalized recommendations, video game AI, and AI-generated music or movies."
+  },
+  {
+    "question": "what is ai in manufacturing",
+    "answer": "AI in manufacturing is used for predictive maintenance, quality inspection, process optimization, and automation."
+  },
+  {
+    "question": "what is ai in marketing",
+    "answer": "AI in marketing helps with customer segmentation, targeted ads, chatbots, and predictive analytics."
+  },
+  {
+    "question": "what is ai in transportation",
+    "answer": "AI in transportation is used in self-driving cars, traffic prediction, and route optimization."
+  },
+  {
+    "question": "what is ai in energy",
+    "answer": "AI in energy is used for smart grids, energy consumption forecasting, and optimization of renewable energy sources."
+  },
+  {
+    "question": "what is ai in gaming",
+    "answer": "AI in gaming provides intelligent NPC behavior, adaptive difficulty levels, and game content generation."
+  },
+  {
+    "question": "what is ai in social media",
+    "answer": "AI in social media powers recommendation algorithms, content moderation, and targeted advertising."
+  },
+  {
+    "question": "what is ai in law",
+    "answer": "AI in law is used for document review, legal research, contract analysis, and case prediction."
+  },
+  {
+    "question": "what is ai singularity",
+    "answer": "The AI singularity is a hypothetical point where AI surpasses human intelligence, leading to rapid technological growth."
+  },
+  {
+    "question": "what is narrow ai",
+    "answer": "Narrow AI refers to AI systems specialized in a single task such as facial recognition or translation."
+  },
+  {
+    "question": "what is general ai",
+    "answer": "General AI refers to AI systems with human-level intelligence that can perform a wide range of tasks."
+  },
+  {
+    "question": "what is super ai",
+    "answer": "Super AI is a theoretical level of AI that surpasses human intelligence and capabilities."
+  },
+  {
+    "question": "what are ai chatbots",
+    "answer": "AI chatbots are conversational agents that simulate human-like interactions using NLP and machine learning."
+  },
+  {
+    "question": "what is transfer learning",
+    "answer": "Transfer learning is a technique where a model trained on one task is reused and fine-tuned for a different task."
+  },
+  {
+    "question": "what is computer vision in self driving cars",
+    "answer": "Self-driving cars use computer vision to detect lanes, pedestrians, traffic signs, and other vehicles."
+  },
+  {
+    "question": "what is federated learning",
+    "answer": "Federated learning allows AI models to be trained on decentralized data without sharing raw data across devices."
+  },
+  {
+    "question": "what is a large language model",
+    "answer": "A Large Language Model (LLM) is an AI system trained on massive amounts of text data to generate human-like language."
+  },
+  {
+    "question": "what is prompt engineering",
+    "answer": "Prompt engineering is the practice of designing inputs to get better outputs from AI models like GPT."
+  },
+  {
+    "question": "what is openai",
+    "answer": "OpenAI is an AI research company that develops advanced AI systems like GPT and DALL-E while focusing on safe AI development."
+  },
+  {
+    "question": "what is bias in machine learning",
+    "answer": "Bias in machine learning occurs when a model systematically favors certain outcomes due to biased training data."
+  },
+  {
+    "question": "what is data preprocessing in ai",
+    "answer": "Data preprocessing involves cleaning, normalizing, and preparing data for use in AI and machine learning models."
+  },
+  {
+    "question": "what is hyperparameter tuning",
+    "answer": "Hyperparameter tuning is the process of optimizing the settings of an AI model to achieve better performance."
+  },
+  {
+    "question": "what is overfitting in ai",
+    "answer": "Overfitting occurs when an AI model learns noise and details in training data, performing poorly on new data."
+  },
+  {
+    "question": "what is underfitting in ai",
+    "answer": "Underfitting occurs when an AI model is too simple and fails to capture patterns in the data."
+  },
+  {
+    "question": "what is ai in smart homes",
+    "answer": "AI in smart homes powers virtual assistants, energy optimization, and automated home devices."
+  },
+  {
+    "question": "what is ai in virtual reality",
+    "answer": "AI in virtual reality creates adaptive environments, NPC interactions, and immersive experiences."
+  }
+]
